@@ -24,6 +24,7 @@
 #include "Mouse.h"
 #include "Graphics.h"
 #include "Board.h"
+#include "Snake.h"
 #include <random>
 
 class Game
@@ -45,6 +46,11 @@ private:
 	/********************************/
 	/*  User Variables              */
 	Board brd;
+	Snake snek;
+	Location delta_loc = {1,0};
+	//adjust movement speed
+	static constexpr int snekMovePeriod = 20; //it takes snake 20 frames to make one move, 3 movements in a seconds(60 frames)
+	int snekMoveCounter = 0;
 	std::mt19937 rng;
 	/********************************/
 };

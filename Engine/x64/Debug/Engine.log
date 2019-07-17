@@ -1,5 +1,5 @@
-﻿  Board.cpp
-  Game.cpp
+﻿  Game.cpp
   Main.cpp
   MainWindow.cpp
-  Engine.vcxproj -> C:\Users\RisingMing\Favorites\Life\C++\CapStone_SnakeGame\Snack_Game_CPP_Revive_RobinZ\Snack_Game_CPP\x64\Debug\Engine.exe
+  Snake.cpp
+  Engine.vcxproj -> C:\Users\RisingMing\Favorites\Life\C++\CapStone_SnakeGame\Snack_Game_CPP_Revive_RobinZ\Snake_Game_CPP\x64\Debug\Engine.exe
