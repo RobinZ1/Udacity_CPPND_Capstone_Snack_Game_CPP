@@ -1,4 +1,4 @@
-# Snack_Game_CPP
+# Snack_Game_CPP.zip   (This is the only file you need to download to play the game!)
 # To Dear Udacity Reviewer
 
  CapStone_SnakeGame:  Revive the classical snake game with stunning new features. Intense and exciting game play experience is ensured. All in c++ The project is built from scratch with nothing but free_public preset framework provided by (formal game developer & youtuber(ChiliTomatoNoodles)), thanks for his contribution so I can implement a series of new features to the game base on his framework.
